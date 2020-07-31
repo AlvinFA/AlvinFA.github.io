@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuaizh0.github.io</id>
     <title>sviciper</title>
-    <updated>2020-07-31T15:44:01.310Z</updated>
+    <updated>2020-07-31T15:49:00.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuaizh0.github.io"/>
     <link rel="self" href="https://shuaizh0.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://shuaizh0.github.io/images/avatar.png</logo>
     <icon>https://shuaizh0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, sviciper</rights>
+    <entry>
+        <title type="html"><![CDATA[6666]]></title>
+        <id>https://shuaizh0.github.io/post/6666/</id>
+        <link href="https://shuaizh0.github.io/post/6666/">
+        </link>
+        <updated>2020-07-31T15:46:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://shuaizh0.github.io/post/5/</id>
