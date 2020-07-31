@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuaizh0.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-31T15:04:56.666Z</updated>
+    <title>sviciper</title>
+    <updated>2020-07-31T15:32:59.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuaizh0.github.io"/>
     <link rel="self" href="https://shuaizh0.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>this is a website from github.</subtitle>
     <logo>https://shuaizh0.github.io/images/avatar.png</logo>
     <icon>https://shuaizh0.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, sviciper</rights>
+    <entry>
+        <title type="html"><![CDATA[A new article]]></title>
+        <id>https://shuaizh0.github.io/post/a-new-article/</id>
+        <link href="https://shuaizh0.github.io/post/a-new-article/">
+        </link>
+        <updated>2020-07-31T15:31:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>I am writing a new text.<br>
+😋<br>
+<img src="https://shuaizh0.github.io/post-images/1596209509756.jpg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>I am writing a new text.<br>
+😋<br>
+<img src="https://shuaizh0.github.io/post-images/1596209509756.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+<p>hcle</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shuaizh0.github.io/post/hello-gridea/</id>
