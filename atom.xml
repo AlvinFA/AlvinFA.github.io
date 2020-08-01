@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuaizh0.github.io</id>
     <title>sviciper</title>
-    <updated>2020-07-31T15:49:00.502Z</updated>
+    <updated>2020-08-01T16:24:15.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuaizh0.github.io"/>
     <link rel="self" href="https://shuaizh0.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://shuaizh0.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, sviciper</rights>
     <entry>
-        <title type="html"><![CDATA[6666]]></title>
+        <title type="html"><![CDATA[2020大创——基于深度学习的低光图像及视频增强]]></title>
         <id>https://shuaizh0.github.io/post/6666/</id>
         <link href="https://shuaizh0.github.io/post/6666/">
         </link>
