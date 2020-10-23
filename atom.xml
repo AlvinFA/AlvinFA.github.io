@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shuaizh0.github.io</id>
+    <id>https://AlvinFA.github.io</id>
     <title>sviciper</title>
-    <updated>2020-08-12T11:56:18.718Z</updated>
+    <updated>2020-10-23T05:08:36.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://shuaizh0.github.io"/>
-    <link rel="self" href="https://shuaizh0.github.io/atom.xml"/>
+    <link rel="alternate" href="https://AlvinFA.github.io"/>
+    <link rel="self" href="https://AlvinFA.github.io/atom.xml"/>
     <subtitle>this is a website from github.</subtitle>
-    <logo>https://shuaizh0.github.io/images/avatar.png</logo>
-    <icon>https://shuaizh0.github.io/favicon.ico</icon>
+    <logo>https://AlvinFA.github.io/images/avatar.png</logo>
+    <icon>https://AlvinFA.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, sviciper</rights>
     <entry>
         <title type="html"><![CDATA[why]]></title>
-        <id>https://shuaizh0.github.io/post/why/</id>
-        <link href="https://shuaizh0.github.io/post/why/">
+        <id>https://AlvinFA.github.io/post/why/</id>
+        <link href="https://AlvinFA.github.io/post/why/">
         </link>
         <updated>2020-08-12T11:08:59.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[校友访谈 | 第一期]]></title>
-        <id>https://shuaizh0.github.io/post/xiao-you-fang-tan-or-di-yi-qi/</id>
-        <link href="https://shuaizh0.github.io/post/xiao-you-fang-tan-or-di-yi-qi/">
+        <id>https://AlvinFA.github.io/post/xiao-you-fang-tan-or-di-yi-qi/</id>
+        <link href="https://AlvinFA.github.io/post/xiao-you-fang-tan-or-di-yi-qi/">
         </link>
         <updated>2020-08-12T08:09:41.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020大创——基于深度学习的低光图像及视频增强]]></title>
-        <id>https://shuaizh0.github.io/post/6666/</id>
-        <link href="https://shuaizh0.github.io/post/6666/">
+        <id>https://AlvinFA.github.io/post/6666/</id>
+        <link href="https://AlvinFA.github.io/post/6666/">
         </link>
         <updated>2020-07-31T15:46:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-2021考研]]></title>
-        <id>https://shuaizh0.github.io/post/a-new-article/</id>
-        <link href="https://shuaizh0.github.io/post/a-new-article/">
+        <id>https://AlvinFA.github.io/post/a-new-article/</id>
+        <link href="https://AlvinFA.github.io/post/a-new-article/">
         </link>
         <updated>2020-07-31T15:31:02.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://shuaizh0.github.io/post/hello-gridea/</id>
-        <link href="https://shuaizh0.github.io/post/hello-gridea/">
+        <id>https://AlvinFA.github.io/post/hello-gridea/</id>
+        <link href="https://AlvinFA.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
